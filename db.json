@@ -1,0 +1,182 @@
+{
+  "posts": [{
+    "id": 1,
+    "title": "json-server",
+    "author": "typicode"
+  }],
+  "comments": [{
+    "id": 1,
+    "body": "some comment",
+    "postId": 1
+  }],
+  "profile": {
+    "name": "typicode"
+  },
+  "sections": [{
+      "id": "da6619b6-c7fe-4a5f-9dd8-1bc0aceecec3",
+      "title": "",
+      "type": "SECTION",
+      "settings": null,
+      "rows": ["aed4070a-5a4a-4bd0-8f7d-90383991745f"]
+    },
+    {
+      "id": "c7c41401-e0e8-418f-a128-1a41e12dd048",
+      "title": "",
+      "type": "SECTION",
+      "settings": {
+        "background": {
+          "url": "/img/backgrounds/img-47.jpg"
+        }
+      },
+      "rows": [
+        "1d1193e2-a560-4320-a49e-e9d8aa52dcf8"
+      ]
+    },
+    {
+      "id": "49f6a71a-8185-4110-9bc9-2234a7655a2e",
+      "title": "",
+      "type": "SECTION",
+      "settings": {
+        "background": {
+          "url": "/img/backgrounds/img-17.jpg"
+        }
+      },
+      "rows": [
+        "0b597b6f-b5d8-4383-8e09-34759adf43ea"
+      ]
+    }
+  ],
+  "rows": [{
+      "id": "1d1193e2-a560-4320-a49e-e9d8aa52dcf8",
+      "section": "c7c41401-e0e8-418f-a128-1a41e12dd048",
+      "type": "ROW",
+      "columns": [
+        "e45b88c2-1d2a-4871-b73e-1f9b93d5c241",
+        "c74af2f1-9d4a-4e3c-94ae-74d7272928ec",
+        "f78b364a-b840-4e58-bb00-e2ea7f408266"
+      ]
+    },
+    {
+      "id": "b0e48438-aa0c-46b0-895f-9b745618bc45",
+      "section": "c7c41401-e0e8-418f-a128-1a41e12dd048",
+      "type": "ROW",
+      "columns": null
+    },
+    {
+      "id": "6e3c07a3-562f-4c7d-8843-fc6ed74f47d2",
+      "section": "c7c41401-e0e8-418f-a128-1a41e12dd048",
+      "type": "ROW",
+      "columns": null
+    },
+    {
+      "id": "0b597b6f-b5d8-4383-8e09-34759adf43ea",
+      "section": "49f6a71a-8185-4110-9bc9-2234a7655a2e",
+      "type": "ROW",
+      "columns": null
+    },
+    {
+      "id": "1b6c34bb-bcab-426f-8a5e-abffecd0ae6a",
+      "section": "49f6a71a-8185-4110-9bc9-2234a7655a2e",
+      "type": "ROW",
+      "columns": null
+    },
+    {
+      "id": "aed4070a-5a4a-4bd0-8f7d-90383991745f",
+      "section": "49f6a71a-8185-4110-9bc9-2234a7655a2e",
+      "type": "ROW",
+      "columns": ["8ea5b286-79f6-45a4-b7e0-7dda24f8fad4"]
+    }
+  ],
+  "columns": [{
+      "id": "e45b88c2-1d2a-4871-b73e-1f9b93d5c241",
+      "row": "1d1193e2-a560-4320-a49e-e9d8aa52dcf8",
+      "type": "COLUMN",
+      "blocks": [
+        "744ebd8e-6d94-4246-8e6f-83cc22c2ad29",
+        "a43fdc0a-f321-4cb6-ab6c-2b53dc7c866f"
+      ]
+    },
+    {
+      "id": "c74af2f1-9d4a-4e3c-94ae-74d7272928ec",
+      "row": "1d1193e2-a560-4320-a49e-e9d8aa52dcf8",
+      "type": "COLUMN",
+      "blocks": ["81aba58b-a895-446f-b20d-6f70ca42e38e"]
+    },
+    {
+      "id": "f78b364a-b840-4e58-bb00-e2ea7f408266",
+      "row": "1d1193e2-a560-4320-a49e-e9d8aa52dcf8",
+      "type": "COLUMN",
+      "blocks": ["27e7798b-9c1e-4229-b7e4-6d05edbc6d71"]
+    },
+    {
+      "id": "8ea5b286-79f6-45a4-b7e0-7dda24f8fad4",
+      "row": "1d1193e2-a560-4320-a49e-e9d8aa52dcf8",
+      "type": "COLUMN",
+      "blocks": ["88648b2c-f8d9-4b4a-9a7a-dd1d9f7b59db"]
+    }
+  ],
+  "blocks": [{
+      "id": "744ebd8e-6d94-4246-8e6f-83cc22c2ad29",
+      "column": "e45b88c2-1d2a-4871-b73e-1f9b93d5c241",
+      "type": "BLOCK",
+      "element": "TEXT_BLOCK",
+      "content": "<div><i className=\"material-icons ae-5 fromCenter done\">fingerprint</i><h3 className=\"ae-1\">Meet quick</h3><p className=\"ae-2 tiny\"><span className=\"opacity-6\">Do you validate other people’s markup? Yes? You’re an asshole.</span></p></div>"
+    },
+    {
+      "id": "a43fdc0a-f321-4cb6-ab6c-2b53dc7c866f",
+      "column": "e45b88c2-1d2a-4871-b73e-1f9b93d5c241",
+      "type": "BLOCK",
+      "element": "TEXT_BLOCK",
+      "content": "<div><i className=\"material-icons ae-5 fromCenter done\">videocam</i><h3 className=\"ae-1\">HQ photos</h3><p className=\"ae-2 tiny\"><span className=\"opacity-6\">Design is the conscious effort to impose a meaningful order.</span></p></div>"
+    },
+    {
+      "id": "81aba58b-a895-446f-b20d-6f70ca42e38e",
+      "column": "c74af2f1-9d4a-4e3c-94ae-74d7272928ec",
+      "type": "BLOCK",
+      "element": "TEXT_BLOCK",
+      "content": "<div><i className=\"material-icons ae-5 fromCenter done\">switch_camera</i><h3 className=\"ae-1\">Resize picture</h3><p className=\"ae-2 tiny\"><span className=\"opacity-6\">No, Watson, this was not done by accident, but by design.</span></p></div>"
+    },
+    {
+      "id": "27e7798b-9c1e-4229-b7e4-6d05edbc6d71",
+      "column": "f78b364a-b840-4e58-bb00-e2ea7f408266",
+      "type": "BLOCK",
+      "element": "TEXT_BLOCK",
+      "content": "<div><i className=\"material-icons ae-5 fromCenter done\">notifications_off</i><h3 className=\"ae-1\">Notifications</h3><p className=\"ae-2 tiny\"><span className=\"opacity-6\">Now that we can do anything, what should we do?</span></p></div>"
+    },
+    {
+      "id": "88648b2c-f8d9-4b4a-9a7a-dd1d9f7b59db",
+      "column": "8ea5b286-79f6-45a4-b7e0-7dda24f8fad4",
+      "type": "BLOCK",
+      "element": "CAROUSEL_BLOCK",
+      "settings": {
+        "title": "",
+        "fullHeight": false,
+        "autoplayTimeout": "5000",
+        "items": "1",
+        "autoplay": true,
+        "nav": true,
+        "dots": true,
+        "loop": false
+      },
+      "items": [{
+          "id": 1,
+          "title": "The Last of \"Us\": Remastered",
+          "publicId": null,
+          "content": "Survive an apocalypse on Earth in The Last of Us, a PlayStation 4-exclusive title."
+        },
+        {
+          "id": 2,
+          "title": "The Witcher 3: Blood and Wine",
+          "publicId": "m2vbualj2inantiow7to",
+          "content": "The world is in chaos. The air is thick with tension and the smoke of burnt villages."
+        },
+        {
+          "id": 3,
+          "title": "For Honor: The Berserker",
+          "publicId": "si6hcrhthffixr5uawrp",
+          "content": "Enter the chaos of a raging war as a bold knight, brutal viking, or mysterious samurai."
+        }
+      ]
+    }
+  ]
+}
