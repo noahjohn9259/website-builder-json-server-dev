@@ -1,23 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "sections": [
-    {
+  "sections": [{
       "id": "c7c41401-e0e8-418f-a128-1a41e12dd048",
       "type": "SECTION",
       "settings": {
@@ -181,8 +163,7 @@
       }
     }
   ],
-  "rows": [
-    {
+  "rows": [{
       "id": "69e43133-e48c-4826-9373-3d129f000c15",
       "section": "5f5a2ce0-9709-47ef-84ef-bee8c014517e",
       "type": "ROW"
@@ -208,8 +189,7 @@
       "type": "ROW"
     }
   ],
-  "columns": [
-    {
+  "columns": [{
       "id": "829dee4a-256a-4da5-9841-bb6927df6713",
       "row": "69e43133-e48c-4826-9373-3d129f000c15",
       "type": "COLUMN"
@@ -271,8 +251,7 @@
       "type": "COLUMN"
     }
   ],
-  "blocks": [
-    {
+  "blocks": [{
       "id": "7f5d7039-0a41-42a9-a7fb-c917a1011874",
       "column": "829dee4a-256a-4da5-9841-bb6927df6713",
       "type": "BLOCK",
@@ -509,8 +488,7 @@
       }
     }
   ],
-  "attachments": [
-    {
+  "attachments": [{
       "id": "2fd7f1e6-9471-4d6f-b679-365e5016fe98",
       "public_id": "eqd2kpidhluo3pfuxtef",
       "version": 1537828386,
@@ -1393,8 +1371,7 @@
       "original_filename": "153026568452"
     }
   ],
-  "slides": [
-    {
+  "slides": [{
       "id": "704a260b-adb6-4689-8800-752409dfa36b",
       "blockId": "88648b2c-f8d9-4b4a-9a7a-dd1d9f7b59db",
       "title": "The Last of Us: Remastered1",
@@ -1409,8 +1386,7 @@
       "attachmentId": "f2b0409b-6929-4177-a959-b87a03eeeeda"
     }
   ],
-  "pages": [
-    {
+  "pages": [{
       "id": "4fb2cafc-e9f7-44f8-844f-a17abe571c5e",
       "title": "Home",
       "slug": "home"
@@ -1436,8 +1412,7 @@
       "slug": "fire-fish-machine"
     }
   ],
-  "sites": [
-    {
+  "sites": [{
       "id": "67a36bb7-7c01-4487-ac2d-52e3b94208f2",
       "settings": {
         "footerPanel": "1"
